@@ -17,3 +17,9 @@ Pantallas
 2.-Listado de asistencia
 
 3.-Exportacion de datos a archivo externo
+
+Entidades
+
+tabla con login mas reciente
+
+listado de cuantas veces se a registrado
